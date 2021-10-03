@@ -16,7 +16,10 @@ It is one of the most important components and is visible and not like other com
 This repository is programmed is C++ and the framework used is <a href="https://github.com/ocornut/imgui"> Dear Imgui</a>
 <br>
 <br>
-The license which this repostiory uses is MIT license.
+# License
+Yuki component is licensed under the same license as FalconXOS, <a href="https://github.com/DaVikingMan/Yuki/blob/master/LICENSE">MIT License</a>
+<br>
+<br>
 Also the full name of Yuki is FalconXOS-Yuki as it is a component of FalconXOS
 <br>
 <br>
