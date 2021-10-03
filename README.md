@@ -29,7 +29,7 @@ Also Yuki will be integerated into the FalconXOS repository when the main parts 
 It will be first released to master-Alpha and Linux-Alpha</b>
 <br>
 <br>
-Credit:
+Credits:
 <br>
 <br>
 -<a href="https://github.com/ocornut/imgui">Dear Imgui</a>(the library used to make Yuki)
