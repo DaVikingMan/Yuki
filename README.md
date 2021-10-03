@@ -8,9 +8,9 @@ It is one of the most important components and is visible and not like other com
 This repository is programmed is C++ and the framework used is <not-decided>
 Some potential frameworks that may be used are:
 
--Dear imgui
--Opengk
--JUCE
+-Dear imgui(MIT license)
+-Qt(GPL or LGPL)
+-JUCE(custom)
 
 The license which this repostiory uses is MIT license.
 It might use a dual-license, but that is not decided yet.
