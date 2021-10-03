@@ -38,6 +38,6 @@ Credits:
 -<a href="https://github.com/glfw/glfw">Glfw</a>(library which is used with imgui)</b>
 <br>
 <br>
-<b>Note : Glfw's files are currently not included, so if you are in Windows or macos you would have to build them by yourself</b>
+<b>Note : Glfw's files are currently not included, so if you are on Windows or macos you would have to build them by yourself</b>
 <br>
-If you are on GNU/Linux, you will have to install it from your distro's package manager
+If you are on GNU/Linux, you will have to install it from your distro's package manager(you can also run 'install.sh' in src/linux)
