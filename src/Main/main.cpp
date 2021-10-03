@@ -1,4 +1,6 @@
 #include<iostream>
+#include<../backend/DearImgui/imgui.h>
+#include<../backend/DearImgui/imconfig.h>
 
 class Type
 {
