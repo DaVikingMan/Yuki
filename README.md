@@ -13,7 +13,7 @@ This is <b>in-developement</b> and is nowhere near complete
 Yuki is the component of FalconXOS which will be used to run it.
 It is one of the most important components and is visible and not like other components which are not visible.
 <br>
-This repository is programmed is C++ and the framework used is Dear Imgui
+This repository is programmed is C++ and the framework used is <a href="https://github.com/ocornut/imgui"> Dear Imgui</a>
 <br>
 <br>
 The license which this repostiory uses is MIT license.
@@ -23,4 +23,4 @@ Also the full name of Yuki is FalconXOS-Yuki as it is a component of FalconXOS
 Credit:
 <br>
 <br>
--Dear Imgui(the library used to make Yuki)
+-<a href="https://github.com/ocornut/imgui">Dear Imgui</a>(the library used to make Yuki)
