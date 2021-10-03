@@ -23,6 +23,12 @@ Yuki component is licensed under the same license as FalconXOS, <a href="https:/
 Also the full name of Yuki is FalconXOS-Yuki as it is a component of FalconXOS
 <br>
 <br>
+<b>
+Also Yuki will be integerated into the FalconXOS repository when the main parts of Yuki have been completed.
+<br>
+It will be first released to master-Alpha and Linux-Alpha</b>
+<br>
+<br>
 Credit:
 <br>
 <br>
