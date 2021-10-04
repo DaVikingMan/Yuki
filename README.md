@@ -34,7 +34,7 @@ Yuki has a dual-license model
 <br>
 All the files which outside /src/backend/glfw are licensed under <a href="https://github.com/DaVikingMan/Yuki/blob/master/LICENSE">MIT License</a>
 <br>
-Everything under the /src/backend/glfw folder is licensed under the <a href="https://github.com/DaVikingMan/Yuki/blob/master/src/backend/glfw/LICENSE">Zlib license</a> as the glfw library is licensed under it.
+Everything under the /src/backend/glfw folder is licensed under the <a href="https://github.com/DaVikingMan/Yuki/tree/master/src/backend/glfw/LICENSE.md">Zlib license</a> as the glfw library is licensed under it.
 <br>
 Also the full name of Yuki is FalconXOS-Yuki as it is a component of FalconXOS
 <br>
