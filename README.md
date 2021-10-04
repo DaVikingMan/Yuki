@@ -62,7 +62,7 @@ Before contributing, it is recommended to read the <a href="https://github.com/D
 
 ### For more reading on Yuki
 
-<a href="https://github.com/DaVikingMan/Yuki/AboutYuki.md">About Yuki</a>
+<a href="https://github.com/DaVikingMan/Yuki/blob/master/AboutYuki.md">About Yuki</a>
 <br>
 <br>
 
