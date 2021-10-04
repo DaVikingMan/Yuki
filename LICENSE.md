@@ -1,3 +1,7 @@
+FalconXOS-Yuki uses a dual-license model
+
+<b>License #1 : For everything outside /src/backend/glfw</b>
+
 MIT License
 
 Copyright (c) 2021 DaVikingMan
@@ -19,3 +23,9 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+<br>
+<br>
+
+<b>License #2 : For everything inside /src/backend/glfw
+
+See <a href="https://github.com/DaVikingMan/Yuki/tree/master/src/backend/glfw/LICENSE.md">Zlib license, which glfw library is licensed under</a></b>
