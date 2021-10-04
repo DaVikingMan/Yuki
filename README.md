@@ -59,8 +59,10 @@ It will be first released to master-Alpha and Linux-Alpha</b>
 As Yuki is in pre-Alpha stages, contributions are the most important at this time.
 <br>
 Before contributing, it is recommended to read the <a href="https://github.com/DaVikingMan/Yuki/blob/master/CONTRIBUTING.md">contributing guidelines</a> and the <a href="https://github.com/DaVikingMan/Yuki/blob/master/CODE_OF_CONDUCT.md">Code of conduct</a>
-<br>
-<br>
+
+### For installing
+
+See <a href="https://github.com/DaVikingMan/Yuki/blob/master/INSTALL.md">installation instructions</a>
 
 ### For more reading on Yuki
 
