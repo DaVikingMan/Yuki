@@ -53,6 +53,7 @@ It will be first released to master-Alpha and Linux-Alpha</b>
 -<a href="https://github.com/glfw/glfw">Glfw</a>(library which is used with imgui)</b>
 <br>
 -Note : If you want to see the specific version of GLFW used, see <a href="https://github.com/DaVikingMan/glfw">glfw-fork</a>
+
 ### If you want to contribute
 
 As Yuki is in pre-Alpha stages, contributions are the most important at this time.
