@@ -30,11 +30,11 @@ This repository is programmed in C++ and the library used is <a href="https://gi
 <br>
 
 ### License
-Yuki has a dual-license model
+Yuki is licensed under the same license as FalconXOS, <a href="https://github.com/DaVikingMan/Yuki/blob/master/LICENSE">MIT license</a>
 <br>
-All the files which outside /src/backend/glfw are licensed under <a href="https://github.com/DaVikingMan/Yuki/blob/master/LICENSE">MIT License</a>
+Dear Imgui is also licensed under the same, see <a href="https://github.com/ocornut/imgui/blob/master/LICENSE.txt">license</a>
 <br>
-Everything under the /src/backend/glfw folder is licensed under the <a href="https://github.com/DaVikingMan/Yuki/tree/master/src/backend/glfw/LICENSE.md">Zlib license</a> as the glfw library is licensed under it.
+Glfw is licensed under the Zlib license, see <a href="https://github.com/glfw/glfw/blob/master/LICENSE.md">license</a>
 <br>
 Also the full name of Yuki is FalconXOS-Yuki as it is a component of FalconXOS
 <br>
