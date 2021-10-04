@@ -30,8 +30,11 @@ This repository is programmed in C++ and the library used is <a href="https://gi
 <br>
 
 ### License
-Yuki component is licensed under the same license as FalconXOS, <a href="https://github.com/DaVikingMan/Yuki/blob/master/LICENSE">MIT License</a>
+Yuki has a dual-license model
 <br>
+All the files which outside /src/backend/glfw are licensed under <a href="https://github.com/DaVikingMan/Yuki/blob/master/LICENSE">MIT License</a>
+<br>
+Everything under the /src/backend/glfw folder is licensed under the <a href="https://github.com/DaVikingMan/Yuki/blob/master/src/backend/glfw/LICENSE">Zlib license</a> as the glfw library is licensed under it.
 <br>
 Also the full name of Yuki is FalconXOS-Yuki as it is a component of FalconXOS
 <br>
@@ -56,8 +59,5 @@ As Yuki is in pre-Alpha stages, contributions are the most important at this tim
 Before contributing, it is recommended to read the <a href="https://github.com/DaVikingMan/Yuki/blob/master/CONTRIBUTING.md">contributing guidelines</a> and the <a href="https://github.com/DaVikingMan/Yuki/blob/master/CODE_OF_CONDUCT.md">Code of conduct</a>
 <br>
 <br>
-<b>Note : Glfw's files are currently not included, so if you are on Windows or macos you would have to build them by yourself</b>
-<br>
-These files will be included at a later version
-<br>
-If you are on GNU/Linux, you will have to install it from your distro's package manager(you can also run 'install.sh' in src/linux)
+
+If you are on GNU/Linux, you will have to install glfw from your distro's package manager(you can also run 'install.sh' in src/linux)
