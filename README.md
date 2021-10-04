@@ -60,4 +60,10 @@ Before contributing, it is recommended to read the <a href="https://github.com/D
 <br>
 <br>
 
+### For more reading on Yuki
+
+<a href="https://github.com/DaVikingMan/Yuki/AboutYuki.md">About Yuki</a>
+<br>
+<br>
+
 If you are on GNU/Linux, you will have to install glfw from your distro's package manager(you can also run 'install.sh' in src/linux)
