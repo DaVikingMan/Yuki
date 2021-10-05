@@ -4,7 +4,10 @@ First, in order to run the file you must clone it by running :
 <br>
 `git clone --recursive https://github.com/DaVikingMan/Yuki`
 <br>
-Note : Normal git clone will not include the submodules therefore it is recommended to do it recursively.
+<br>
+Note : Normal git clone will not include the submodules therefore it is recommended to do it recursively.If you had git cloned the normal way, run 
+<br>
+`git init` and 	`git update`
 <br>
 <br>
 After that, you would have go to /src/backend/glfw and compile the library by either using cmake or visual studio.
