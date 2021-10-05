@@ -9,9 +9,10 @@
 <br>
 -Bash
 <br>
--GNU/Linux-any kernel version which supports opengl
+-GNU/Linux-any kernel version which supports cmake 3.0+
 <br>
 -Windows 7+(Only tested on Windows 10, this is an estimate)
+<br>
 -Don't know as it isn't tested on macos but theoritically it should work in macosX+
 </b>
 
