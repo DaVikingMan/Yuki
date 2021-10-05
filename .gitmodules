@@ -1,3 +1,6 @@
 [submodule "src/backend/glfw"]
 	path = src/backend/glfw
 	url = https://github.com/DaVikingMan/glfw
+[submodule "src/backend/imgui"]
+	path = src/backend/imgui
+	url = https://github.com/DaVikingMan/imgui
