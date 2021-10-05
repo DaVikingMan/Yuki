@@ -69,5 +69,3 @@ See <a href="https://github.com/DaVikingMan/Yuki/blob/master/INSTALL.md">install
 <a href="https://github.com/DaVikingMan/Yuki/blob/master/AboutYuki.md">About Yuki</a>
 <br>
 <br>
-
-If you are on GNU/Linux, you will have to install glfw from your distro's package manager(you can also run 'install.sh' in src/linux)
