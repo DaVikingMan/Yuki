@@ -4,15 +4,15 @@
 
 ### About Yuki
   
-  Yuki(also known as FalconXOS-Yuki)is an in-developement component of FalconXOS which will be used to run FalconXOS and render graphics in FalconXOS.
+  Yuki(also known as FalconXOS-Yuki)is an in-developement component of FalconXOS which will be used to run and render graphics in FalconXOS.
   <br>
   It is the most important component of FalconXOS,as it is universal and will be used for both FalconXOS's UFT(User-Friendly Terminal)and FalconXOS's Operating Shell(which will be released at a later version of FalconXOS).
   <br>
   Yuki, although is a FalconXOS component, can also be used for your projects.
   <br>
-  If you wanted a cool shell-type runner, Yuki can do that.
+  If you want a cool shell-type runner, Yuki can do that.
   <br>
-  If you wanted a renderer which can render graphics, Yuki can do that.
+  If you want a renderer which can render graphics, Yuki can do that also.
   <br>
   <br>
   Note : By renderer doesn't mean that you can give Yuki a huge unreal engine project and it will render the entire project for you.
