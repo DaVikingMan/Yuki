@@ -2,6 +2,10 @@
 
 Yuki is one of the most important components of FalconXOS.
 <br>
+The best thing about Yuki is that it is universal
+<br>
+While the runner works only FalconXOS's UFT(User-Friendly Terminal), the renderer works for the entire FalconXOS, including all components.
+<br>
 It is used to run FalconXOS and will be used to render advanced images.
 <br>
 Yuki is in developement and is one of the components of FalconXOS which might take some time.
