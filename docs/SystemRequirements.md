@@ -20,5 +20,5 @@
 
 It is recommended to run Yuki with gcc, but if you have a different compiler you can also run it.
 <br>
-Also the compiler used should support make as without it you cannot build(I strongly disagree with running cmake .. but if you want to, you can.The recommended way is 'make' and running the script)
+Also the compiler used should support make as without it you cannot build
 <br>
