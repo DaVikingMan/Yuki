@@ -30,8 +30,7 @@ This repository is programmed in C++ and the library used is <a href="https://gi
 <br>
 
 ### License
-Yuki is licensed under the same license as FalconXOS, <a href="https://github.com/DaVikingMan/Yuki/blob/master/LICENSE">MIT license</a>
-<br>
+Yuki is licensed under the same license as FalconXOS
 Dear Imgui is also licensed under the same, see <a href="https://github.com/ocornut/imgui/blob/master/LICENSE.txt">license</a>
 <br>
 Glfw is licensed under the Zlib license, see <a href="https://github.com/glfw/glfw/blob/master/LICENSE.md">license</a>
